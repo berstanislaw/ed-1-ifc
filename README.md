@@ -36,3 +36,5 @@ Para ordenação dos itens de forma alfabética foi utilizado um método de quic
 REFERÊNCIAS
 
 TEDESCO, Kennedy. Uma introdução a ASCII e Unicode: veja um pouco mais sobre os sistemas de codificação de caracteres ascii e unicode. Veja um pouco mais sobre os sistemas de codificação de caracteres ASCII e Unicode. 2020. Disponível em: https://www.treinaweb.com.br/blog/uma-introducao-a-ascii-e-unicode. Acesso em: 12 jul. 2021.
+
+Link para vídeo com o codigo : https://drive.google.com/file/d/1oFlMQ5ld6b2nVI0RfD-FaGEEEI9kxU8_/view?usp=sharing
